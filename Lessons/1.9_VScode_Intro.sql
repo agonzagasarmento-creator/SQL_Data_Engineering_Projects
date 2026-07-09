@@ -1,3 +1,2 @@
-SELECT * FROM information_schema.table_constraints
-WHERE table_catalog = 'data_jobs'
+SELECT * FROM job_title_short
 LIMIT 10;
